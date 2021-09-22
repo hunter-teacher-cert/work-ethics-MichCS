@@ -1,4 +1,4 @@
-#important python library called random
+#important python dictionary/library called random
 
 import random
 
