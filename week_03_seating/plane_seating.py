@@ -1,5 +1,5 @@
 #Some of the comments show print statments based on code that Alex wrote.
-#Marisa and I worked with Daiana and Peter to implement the improvements to the code.
+#Marisa and I worked with Daiana and Peter to implement the improvements to the code..
 
 
 import random
