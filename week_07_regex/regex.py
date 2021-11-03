@@ -2,7 +2,7 @@ import re
 
 # This was an interesting task. While I had challenges running the program as a whole, I did use https://pythex.org/, plug in lines 8, 12, and 17 (after5 the "=" sign) and the codes worked. I am most interested in exploring gen regex on a deeper level. Quite intriguing. 
 
-# Additionally, I have attached two samples of what the code on https://pythex.org/ displayed.
+# Additionally, I have attached two samples of what the code on https://pythex.org/ displayed. In the files, there is a green font to indicate the finds from the search.
 
 
 def find_names(line):

@@ -1,5 +1,3 @@
 # Text for Regex
 
-
-
 Mrs. Smith is a good teacher in Leeds, in the UK. She is a primary school teacher who loves English. At home, Mr. Smith has a husband named Mr. Smith, or Jacob Smith, and three children: Tara Smith, Bob Smith, Mary Smith. Outside of work, Mrs. Smith is also called Marjorie Smith. At school, her students forget that she is a Mrs. and often times call her Ms. Smith instead. Her family has a lot of aspirations. One of her children Bob Smith, wishes to become a doctor (Dr.) just like Mr. Smith, his dad – who at work is addressed as Dr. Smith. 
