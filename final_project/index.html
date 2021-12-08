@@ -1,0 +1,25 @@
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <title>Facial Recognition</title>
+  <script src="script.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.9.0/p5.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.9.0/addons/p5.dom.min.js"></script>
+  <script src="https://unpkg.com/ml5@latest/dist/ml5.min.js" type="text/javascript"></script>
+</head>
+
+<body>
+  <h1>Facial Recognition</h1>
+  <p>Choose your model:</p>
+  <select id="model" onchange="selectModel()">
+    <option value="glasses">Glasses or No Glasses</option>
+    <option value="hood">Hood or No Hood</option>
+  </select> 
+  <div>
+  <iframe id="modelOutput" src="glasses.html" title="Model Testing" width="400" height="400"></iframe>
+  </div>
+  <h6>Michelle Best and Lyuba Fridman</h6>
+</body>
+
+</html>
